@@ -1,0 +1,177 @@
+[
+    {
+        "No": 1,
+        "Nama": "Eden Hazard",
+        "Posisi": "Left Wing",
+        "Usia": 28,
+        "Asal Negara": "Belgium"
+    },
+    {
+        "No": 2,
+        "Nama": "Thibaut Courtois",
+        "Posisi": "Goalkeeper",
+        "Usia": 27,
+        "Asal Negara": "Belgium"
+    },
+    {
+        "No": 3,
+        "Nama": "James Rodriguez",
+        "Posisi": "Attacking Midfielder",
+        "Usia": 28,
+        "Asal Negara": "Colombia"
+    },
+    {
+        "No": 4,
+        "Nama": "Toni Kroos",
+        "Posisi": "Midfielder",
+        "Usia": 29,
+        "Asal Negara": "Germany"
+    },
+    {
+        "No": 5,
+        "Nama": "Raphael Varane",
+        "Posisi": "Centre Back",
+        "Usia": 26,
+        "Asal Negara": "France"
+    },
+    {
+        "No": 6,
+        "Nama": "Sergio Ramos",
+        "Posisi": "Centre Back",
+        "Usia": 33,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 7,
+        "Nama": "Marcelo",
+        "Posisi": "Left Back",
+        "Usia": 31,
+        "Asal Negara": "Brazil"
+    },
+    {
+        "No": 8,
+        "Nama": "Daniel Carvajal",
+        "Posisi": "Right Back",
+        "Usia": 27,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 9,
+        "Nama": "Nacho Fernandez",
+        "Posisi": "Defender",
+        "Usia": 29,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 10,
+        "Nama": "Gareth Bale",
+        "Posisi": "Winger",
+        "Usia": 30,
+        "Asal Negara": "Wales"
+    },
+    {
+        "No": 11,
+        "Nama": "Luka Modric",
+        "Posisi": "Midfielder",
+        "Usia": 34,
+        "Asal Negara": "Croatia"
+    },
+    {
+        "No": 12,
+        "Nama": "Isco",
+        "Posisi": "Midfielder",
+        "Usia": 27,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 13,
+        "Nama": "Karim Benzema",
+        "Posisi": "Forward",
+        "Usia": 32,
+        "Asal Negara": "France"
+    },
+    {
+        "No": 14,
+        "Nama": "Casemiro",
+        "Posisi": "Midfielder",
+        "Usia": 27,
+        "Asal Negara": "Brazil"
+    },
+    {
+        "No": 15,
+        "Nama": "Éder Militão",
+        "Posisi": "Centre Back",
+        "Usia": 21,
+        "Asal Negara": "Brazil"
+    },
+    {
+        "No": 16,
+        "Nama": "Ferland Mendy",
+        "Posisi": "Left Back",
+        "Usia": 24,
+        "Asal Negara": "France"
+    },
+    {
+        "No": 17,
+        "Nama": "Lucas Vazquez",
+        "Posisi": "Right Wing",
+        "Usia": 28,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 18,
+        "Nama": "Alphonse Areola",
+        "Posisi": "Goalkeeper",
+        "Usia": 26,
+        "Asal Negara": "France"
+    },
+    {
+        "No": 19,
+        "Nama": "Marco Asensio",
+        "Posisi": "Left Wing",
+        "Usia": 23,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 20,
+        "Nama": "Zinedine Zidane",
+        "Posisi": "Manager",
+        "Usia": 47,
+        "Asal Negara": "France"
+    },
+    {
+        "No": 21,
+        "Nama": "Mariano",
+        "Posisi": "Forward",
+        "Usia": 26,
+        "Asal Negara": "Dominican Republic"
+    },
+    {
+        "No": 22,
+        "Nama": "Vinícius Júnior",
+        "Posisi": "Left Wing",
+        "Usia": 19,
+        "Asal Negara": "Brazil"
+    },
+    {
+        "No": 23,
+        "Nama": "Álvaro Odriozola",
+        "Posisi": "Defender",
+        "Usia": 24,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 24,
+        "Nama": "Brahim Díaz",
+        "Posisi": "Attacking Midfielder",
+        "Usia": 20,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 25,
+        "Nama": "Luka Jovic",
+        "Posisi": "Forward",
+        "Usia": 22,
+        "Asal Negara": "Serbia"
+    }
+]

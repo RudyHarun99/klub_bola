@@ -1,0 +1,177 @@
+[
+    {
+        "No": 1,
+        "Nama": "Hector Bellerin",
+        "Posisi": "Right Back",
+        "Usia": 24,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 2,
+        "Nama": "Mesut Ozil",
+        "Posisi": "Midfielder",
+        "Usia": 31,
+        "Asal Negara": "Germany"
+    },
+    {
+        "No": 3,
+        "Nama": "Emiliano Martinez",
+        "Posisi": "Goalkeeper",
+        "Usia": 27,
+        "Asal Negara": "Argentina"
+    },
+    {
+        "No": 4,
+        "Nama": "Calum Chambers",
+        "Posisi": "Defender",
+        "Usia": 24,
+        "Asal Negara": "England"
+    },
+    {
+        "No": 5,
+        "Nama": "Matt Macey",
+        "Posisi": "Goalkeeper",
+        "Usia": 25,
+        "Asal Negara": "England"
+    },
+    {
+        "No": 6,
+        "Nama": "Ainsley Maitland-Niles",
+        "Posisi": "Midfielder",
+        "Usia": 22,
+        "Asal Negara": "England"
+    },
+    {
+        "No": 7,
+        "Nama": "Kieran Tierney",
+        "Posisi": "Defender",
+        "Usia": 22,
+        "Asal Negara": "Scotland"
+    },
+    {
+        "No": 8,
+        "Nama": "Alexandre Lacazette",
+        "Posisi": "Forward",
+        "Usia": 28,
+        "Asal Negara": "France"
+    },
+    {
+        "No": 9,
+        "Nama": "Shkodran Mustafi",
+        "Posisi": "Defender",
+        "Usia": 27,
+        "Asal Negara": "Germany"
+    },
+    {
+        "No": 10,
+        "Nama": "David Luiz",
+        "Posisi": "Defender",
+        "Usia": 32,
+        "Asal Negara": "Brazil"
+    },
+    {
+        "No": 11,
+        "Nama": "Sokratis Papastathopoulos",
+        "Posisi": "Defender",
+        "Usia": 31,
+        "Asal Negara": "Greece"
+    },
+    {
+        "No": 12,
+        "Nama": "Pierre-Emerick Aubameyang",
+        "Posisi": "Forward",
+        "Usia": 30,
+        "Asal Negara": "Gabon"
+    },
+    {
+        "No": 13,
+        "Nama": "Bernd Leno",
+        "Posisi": "Goalkeeper",
+        "Usia": 27,
+        "Asal Negara": "Germany"
+    },
+    {
+        "No": 14,
+        "Nama": "Daniel Ceballos",
+        "Posisi": "Centre Midfielder",
+        "Usia": 23,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 15,
+        "Nama": "Granit Xhaka",
+        "Posisi": "Midfielder",
+        "Usia": 27,
+        "Asal Negara": "Switzerland"
+    },
+    {
+        "No": 16,
+        "Nama": "Rob Holding",
+        "Posisi": "Centre Back",
+        "Usia": 24,
+        "Asal Negara": "England"
+    },
+    {
+        "No": 17,
+        "Nama": "Sead Kolasinac",
+        "Posisi": "Defender",
+        "Usia": 26,
+        "Asal Negara": "Bosnia-Herzegovina"
+    },
+    {
+        "No": 18,
+        "Nama": "Konstantinos Mavropanos",
+        "Posisi": "Defender",
+        "Usia": 22,
+        "Asal Negara": "Greece"
+    },
+    {
+        "No": 19,
+        "Nama": "Matteo Guendouzi",
+        "Posisi": "Centre Midfielder",
+        "Usia": 20,
+        "Asal Negara": "France"
+    },
+    {
+        "No": 20,
+        "Nama": "Lucas Torreira",
+        "Posisi": "Defensive Midfielder",
+        "Usia": 23,
+        "Asal Negara": "Uruguay"
+    },
+    {
+        "No": 21,
+        "Nama": "Unai Emery",
+        "Posisi": "Manager",
+        "Usia": 48,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 22,
+        "Nama": "Nicolas Pepe ",
+        "Posisi": "Winger",
+        "Usia": 24,
+        "Asal Negara": "France"
+    },
+    {
+        "No": 23,
+        "Nama": "Jherson Vergara",
+        "Posisi": "Defender",
+        "Usia": 25,
+        "Asal Negara": "Colombia"
+    },
+    {
+        "No": 24,
+        "Nama": "Victor Alvarez",
+        "Posisi": "Left Back",
+        "Usia": 26,
+        "Asal Negara": "Spain"
+    },
+    {
+        "No": 25,
+        "Nama": "Maksim Belyayev",
+        "Posisi": "Defender",
+        "Usia": 28,
+        "Asal Negara": "Russia"
+    }
+]
